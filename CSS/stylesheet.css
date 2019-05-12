@@ -22,6 +22,10 @@ a:hover {
   text-decoration: underline;
 }
 
+.nav{
+    border-bottom: .8px solid darkgray;
+    padding-bottom: 10px
+}
 
 .nav a {
     margin:15px;
@@ -39,3 +43,4 @@ img {
 .header h1 {
     text-align: center;
 }
+
