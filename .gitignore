@@ -1,3 +1,5 @@
-.DS_Store
-.ipynb_checkpoints/*
-documents/John M Snyder, cv.docx
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
