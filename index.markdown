@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+background: "img/background.jpeg"
 ---
+
+For more than I decade, I have used data, analytics, and technology to improve systems and processes.
