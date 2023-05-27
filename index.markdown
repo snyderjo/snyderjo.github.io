@@ -6,4 +6,6 @@ layout: home
 background: "img/selfie.jpeg"
 ---
 
-For more than I decade, I have used data, analytics, and technology to improve systems and processes.
+For more than I decade, I have used data, analytics, and technology to improve systems and processes.  In the process, I have helped organizations reduce costs; identify and reward internal talent; and designed experiements and evaluated resulting data.
+
+
