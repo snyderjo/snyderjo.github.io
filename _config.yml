@@ -1,7 +1,7 @@
 title:              John M. Snyder
 email:              snyderjo@gmail.com
 description:        >- # this means to ignore newlines until "baseurl:"
-  Data professional with multiple years of experience, and diverse interests.
+  Data professional with years of experience, and diverse interests.
 author:             John Snyder
 baseurl:            ""
 url:                "https://snyderjo.github.io"
@@ -11,7 +11,7 @@ twitter_username:
 github_username:    snyderjo
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: john-snyder-ab18a034
 
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
