@@ -67,7 +67,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">I have found git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io">this website</a>) via git and github.</p>
+            <p style="text-align:center">I have found git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io">this website</a>) via github.</p>
         </div>
     </td>
     <td >
