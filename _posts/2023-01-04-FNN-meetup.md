@@ -9,6 +9,6 @@ I presented the information in this [github repo](https://github.com/snyderjo/in
 
 Video forthcoming!
 
-Thanks for organizing Faris!
+Thanks for organizing, Faris!
 
 Thanks for hosting, U of U!
