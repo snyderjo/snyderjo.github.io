@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projects"
+background: "/img/projects.jpeg"
 ---
 
 ## Under construction...  :-/
