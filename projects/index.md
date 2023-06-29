@@ -9,6 +9,6 @@ background: "/img/projects.jpeg"
 Enjoy the less-than-aesthetic links below:
 
 * [Melanoma Identification](https://snyderjo.github.io/MelnomaIdentification/)  
-* [Iris API](https://snyderjo.github.io/iris_api/)
+* [Iris Prediction API](https://snyderjo.github.io/iris_api/)
 * [Neural Networks from scratch](https://snyderjo.github.io/Neural-Network-Tutorial/)
 
