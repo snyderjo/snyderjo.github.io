@@ -33,17 +33,17 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">R my preferred language for running statistical procedures, as well as rendering graphics and <a href="/documents/screening-to-diagnostic.html">documents</a>.</p>
+            <p style="text-align:center">I evaluate statistical models and design experiments in R--it has a leg up having been developed by and for statisiticians.  It is also excellent for rendering graphics and <a href="/documents/screening-to-diagnostic.html">documents</a>.</p>
         </div>
     </td>
     <td >
         <div>
-            <p style="text-align:center">Python is similarly adept at analysis and benefits from extensive general programming capabilities well exceeding R's.</p>
+            <p style="text-align:center">I also make use of python's extensive analytic packages and benefit from extensive general programming capabilities well exceeding those of R.</p>
         </div>
     </td>
     <td >
         <div>
-            <p style="text-align:center">I written SQL queries to pull data at scale.  I have also worked to develop databases for my own personal projects.</p>
+            <p style="text-align:center">I write SQL queries to pull data at scale.  I have also worked to develop databases and ETL processes for my own personal projects.</p>
         </div>
     </td>
 </tr>
@@ -67,12 +67,12 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">I have found git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io">this website</a>) via github.</p>
+            <p style="text-align:center">I find git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io">this website</a>) via github.</p>
         </div>
     </td>
     <td >
         <div>
-            <p style="text-align:center">Bash is incredibly useful for orchestrating tasks, managing services, and navigating file systems.</p>
+            <p style="text-align:center">Bash is incredibly useful for orchestrating tasks, managing services, as well as navigating and managing file systems.</p>
         </div>
     </td>
     <td >
