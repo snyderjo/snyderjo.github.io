@@ -33,7 +33,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">I evaluate statistical models and design experiments in R--it has a leg up having been developed by and for statisiticians.  It is also excellent for rendering graphics and <a href="/documents/screening-to-diagnostic.html">documents</a>.</p>
+            <p style="text-align:center">I evaluate statistical models and design experiments in R--it has a leg up having been developed by and for statisiticians.  It is also excellent for rendering graphics and <a href="/documents/screening-to-diagnostic.html" target="_blank">documents</a>.</p>
         </div>
     </td>
     <td >
@@ -43,7 +43,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
     </td>
     <td >
         <div>
-            <p style="text-align:center">I write SQL queries to pull data at scale.  I have also worked to develop databases and ETL processes for my own personal projects.</p>
+            <p style="text-align:center">I write SQL queries to pull data at scale.  I have also worked to develop databases and ETL processes for my own <a href="https://github.com/snyderjo/ambience" target="_blank">personal projects</a>.</p>
         </div>
     </td>
 </tr>
@@ -67,7 +67,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">I find git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io">this website</a>) via github.</p>
+            <p style="text-align:center">I find git indispensable for code development, as well as enabling collaboration like no other tool.  I do my best to share my code (including <a href="https://github.com/snyderjo/snyderjo.github.io" target="_blank">this website</a>) via github.</p>
         </div>
     </td>
     <td >
