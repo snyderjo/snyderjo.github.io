@@ -33,12 +33,12 @@ For more than I decade, I have used data, analytics, and technology to improve s
 <tr>
     <td>
         <div>
-            <p style="text-align:center">I evaluate statistical models and design experiments in R--it has a leg up having been developed by and for statisiticians.  It is also excellent for rendering graphics and <a href="/documents/screening-to-diagnostic.html" target="_blank">documents</a>.</p>
+            <p style="text-align:center">I evaluate statistical models and design experiments in R--it has a leg up, having been developed by and for statisiticians.  It is also excellent for rendering graphics and <a href="/documents/screening-to-diagnostic.html" target="_blank">documents</a>.</p>
         </div>
     </td>
     <td >
         <div>
-            <p style="text-align:center">I also make use of python's extensive analytic packages and benefit from extensive general programming capabilities well exceeding those of R.</p>
+            <p style="text-align:center">I also make use of python's extensive analytic packages and benefit from its extensive general programming capabilities well exceeding those of R.</p>
         </div>
     </td>
     <td >
