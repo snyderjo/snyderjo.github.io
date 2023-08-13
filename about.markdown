@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-background: "../img/snowy_hike.jpeg"
+background: "../img/snowy_hike.jpg"
 permalink: /about/
 ---
 
