@@ -43,7 +43,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
     </td>
     <td >
         <div>
-            <p style="text-align:center">I write SQL queries to pull data at scale.  I have also worked to develop databases and ETL processes for my own <a href="https://github.com/snyderjo/ambience" target="_blank">personal projects</a>.</p>
+            <p style="text-align:center">I write SQL queries to pull data at scale.  I have also worked to develop databases and ETL processes for my own <a href="https://snyderjo.github.io/ambience/" target="_blank">personal projects</a>.</p>
         </div>
     </td>
 </tr>
