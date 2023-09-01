@@ -8,7 +8,7 @@ background: "img/selfie.jpeg"
 
 For more than I decade, I have used data, analytics, and technology to improve systems and processes.  Consequently, I have helped organizations reduce costs; identify and reward internal talent; and designed experiements and evaluated resulting data to improve cancer care.
 
-Current title: Data Scientist
+Current role: Data Scientist
 
 <br>
 
