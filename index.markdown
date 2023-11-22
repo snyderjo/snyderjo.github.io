@@ -40,7 +40,7 @@ Current role: Data Scientist
     </td>
     <td >
         <div>
-            <p style="text-align:center">I also make use of python's extensive analytic packages and benefit from its extensive general programming capabilities well exceeding those of R.</p>
+            <p style="text-align:center">I make use of python's machine learning packages and benefit from its extensive general programming capabilities well exceeding those of R.</p>
         </div>
     </td>
     <td >
