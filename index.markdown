@@ -11,7 +11,7 @@ For more than I decade, I have used data, analytics, and technology to improve s
 - helped a multi-state healthcare organizations reduce costs, identify treatment gaps, and improve outcomes; and
 - consulted with large school district to quantitatively identify and reward internal talent. 
 
-In that time, I have developed practical knowledge of data systems, machine learning, and artificial intelligence and used it to collaborate with a diverse array of subject matter experts.
+In that time, I have developed practical knowledge of data systems, machine learning, and artificial intelligence; and used it to collaborate with a diverse array of subject matter experts: physicians, researchers, executives, and administrators.
 
 Current role: Data Scientist
 
