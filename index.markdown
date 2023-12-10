@@ -6,7 +6,12 @@ layout: home
 background: "img/selfie.jpeg"
 ---
 
-For more than I decade, I have used data, analytics, and technology to improve systems and processes.  I have helped a multi-state healthcare organizations reduce costs, close gaps, and improve outcomes; consulted with large school district to identify and reward internal talent; and designed experiements and evaluated resulting data to improve cancer care.  In that time, I have developed practical knowledge of data systems, machine learning, and artificial intelligence and used it to collaborate with subject matter experts.
+For more than I decade, I have used data, analytics, and technology to improve systems and processes.  I have:
+- designed experiements and statistically evaluated resulting data to improve cancer care;  
+- helped a multi-state healthcare organizations reduce costs, identify treatment gaps, and improve outcomes; and
+- consulted with large school district to quantitatively identify and reward internal talent. 
+
+In that time, I have developed practical knowledge of data systems, machine learning, and artificial intelligence and used it to collaborate with a diverse array of subject matter experts.
 
 Current role: Data Scientist
 
