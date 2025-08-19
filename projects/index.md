@@ -12,6 +12,6 @@ Enjoy the less-than-aesthetic links below:
 * [Iris Prediction API](https://snyderjo.github.io/iris_api/)
 * [Neural Networks from scratch](https://snyderjo.github.io/Neural-Network-Tutorial/)
 * [Ambience Database](https://snyderjo.github.io/ambience/)
-* [Daily Ambience Comparison](https://snyderjo.github.io/ambience_comparison/)
-* [Weekly Sleep and Ambience](https://snyderjo.github.io/ambience_sleep/)
+* [Daily Ambience Comparison](https://snyderjo.github.io/ambience_comparison/) ***Paused!***
+* [Weekly Sleep and Ambience](https://snyderjo.github.io/ambience_sleep/) ***Discontunued!***
 
